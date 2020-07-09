@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**4tyTwo/4tyTwo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Igor and I am backend developer from Moscow 🇷🇺  
+Trying to become music & cinema geek and adore cats 🐈
 
-Here are some ideas to get you started:
+### 📝 About me
+⏱ 21 y.o.  
+👨‍🎓 Bachelor of computer engineering, [HSE](https://www.hse.ru/en/)  
+👨🏻‍💻 Backend developer at [@rbkmoney](https://github.com/rbkmoney)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Programming 
+🅴 Erlang for work  
+💧 Elixir for own projects  
+🐍 Python for scripting  
+☕️  Java because everyone uses it  
+📕 Learning Scala  
+
+### 📫 How to reach me
+✉️ Email: iigortoporkov@gmail.com  
+🔗 LinkedIn: [Igor Toporkov](https://linkedin.com/in/igor-toporkov-3851481aa/)  
+📱 Telegram: [@Igor_topor](https://t.me/Igor_topor)
