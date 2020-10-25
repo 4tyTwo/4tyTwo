@@ -5,7 +5,7 @@ Trying to become music & cinema geek and adore cats 🐈
 
 ### 📝 About me
 ⏱ 21 y.o.  
-👨‍🎓 Bachelor of computer engineering, [HSE](https://www.hse.ru/en/)  
+👨‍🎓 Bachelor of computer engineering, [HSE](https://www.hse.ru/en/)
 👨🏻‍💻 Backend developer at [@rbkmoney](https://github.com/rbkmoney)
 
 ### 💻 Programming 
@@ -13,7 +13,6 @@ Trying to become music & cinema geek and adore cats 🐈
 💧 Elixir for own projects  
 🐍 Python for scripting  
 ☕️  Java because everyone uses it  
-📕 Learning Scala  
 
 ### 📫 How to reach me
 ✉️ Email: iigortoporkov@gmail.com  
