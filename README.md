@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-My name is Igor and I am backend developer from Moscow 🇷🇺  
-Trying to become music & cinema geek and adore cats 🐈
+My name is Igor and I am a backend developer from Moscow 🇷🇺  
+Trying to become a music & cinema geek and adore cats 🐈
 
 ### 📝 About me
 ⏱ 21 y.o.  
