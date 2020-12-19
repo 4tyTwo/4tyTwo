@@ -6,7 +6,7 @@ Trying to become a music & cinema geek and adore cats 🐈
 ### 📝 About me
 ⏱ 21 y.o.  
 👨‍🎓 Bachelor of computer engineering, [HSE](https://www.hse.ru/en/)  
-👨🏻‍💻 Ex [@rbkmoney](https://github.com/rbkmoney)
+👨🏻‍💻 Currently at [Klarna.](https://klarna.com) ex [@rbkmoney](https://github.com/rbkmoney)
 
 ### 💻 Programming 
 🅴 Erlang for work  
