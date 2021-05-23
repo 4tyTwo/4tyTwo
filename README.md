@@ -4,7 +4,7 @@ My name is Igor and I am a backend developer from Stockholm 🇸🇪
 Trying to become a music & cinema geek and adore cats 🐈
 
 ### 📝 About me
-⏱ 21 y.o.  
+⏱ 22 y.o.  
 👨‍🎓 Bachelor of computer engineering, [HSE](https://www.hse.ru/en/)  
 👨🏻‍💻 Currently at [@klarna](https://github.com/klarna) ex [@rbkmoney](https://github.com/rbkmoney)
 
