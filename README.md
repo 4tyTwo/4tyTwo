@@ -6,7 +6,7 @@ Trying to become a music & cinema geek and adore cats 🐈
 ### 📝 About me
 ⏱ 22 y.o.  
 👨‍🎓 Bachelor of computer engineering, [HSE](https://www.hse.ru/en/)  
-👨🏻‍💻 Currently at [@klarna](https://github.com/klarna) ex [@rbkmoney](https://github.com/rbkmoney)
+👨🏻‍💻 Currently at [@klarna](https://github.com/klarna)
 
 ### 💻 Programming 
 🅴 Erlang for work  
@@ -17,4 +17,3 @@ Trying to become a music & cinema geek and adore cats 🐈
 ### 📫 How to reach me
 ✉️ Email: iigortoporkov@gmail.com  
 🔗 LinkedIn: [Igor Toporkov](https://linkedin.com/in/igor-toporkov-3851481aa/)  
-📱 Telegram: [@Igor_topor](https://t.me/Igor_topor)
