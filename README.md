@@ -4,16 +4,16 @@ My name is Igor and I am a backend developer from Stockholm 🇸🇪
 Trying to become a music & cinema geek and adore cats 🐈
 
 ### 📝 About me
-⏱ 22 y.o.  
+⏱ 23 y.o.  
 👨‍🎓 Bachelor of computer engineering, [HSE](https://www.hse.ru/en/)  
-👨🏻‍💻 Currently at [@klarna](https://github.com/klarna)
+👨🏻‍💻 Currently at EA DICE, ex-[Klarna](https://github.com/klarna)
 
 ### 💻 Programming 
-🅴 Erlang for work  
+♦️ Scala for work  
 💧 Elixir for own projects  
 🐍 Python for scripting  
 ☕️  Java because everyone uses it  
 
 ### 📫 How to reach me
 ✉️ Email: iigortoporkov@gmail.com  
-🔗 LinkedIn: [Igor Toporkov](https://linkedin.com/in/igor-toporkov-3851481aa/)  
+🔗 LinkedIn: [Igor Toporkov](https://www.linkedin.com/in/%F0%9F%93%88-igor-toporkov-3851481aa/)
